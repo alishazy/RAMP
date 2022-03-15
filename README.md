@@ -1,10 +1,10 @@
 # RAMP
 Requirements Applicability and Mappings Protocol (RAMP)
 
-IDF#: IDF03164
-HAK 2041
-Invention ID: 82023409
-Filing date: 11/3/2020
+- IDF#: IDF03164
+- HAK 2041
+- Invention ID: 82023409
+- Filing date: 11/3/2020
 
 # What is a Patent?
 
